@@ -1,4 +1,4 @@
-# mentesegura
+# Mente Segura
 
 O projeto Mente Segura foi desenvolvido para apoiar e auxiliar no acompanhamento psicológico dos profissionais das forças de segurança. A iniciativa busca promover o bem-estar mental desses agentes, oferecendo suporte especializado, acesso facilitado a recursos de saúde mental e ferramentas para identificar e lidar com o estresse, traumas e desafios emocionais da profissão.
 
