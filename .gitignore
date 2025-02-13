@@ -277,3 +277,5 @@ mentesegura/media/
 .envs/*
 !.envs/.local/
 venv/
+.env
+.envs
