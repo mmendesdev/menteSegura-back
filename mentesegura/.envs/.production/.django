@@ -1,0 +1,48 @@
+# General
+# ------------------------------------------------------------------------------
+# DJANGO_READ_DOT_ENV_FILE=True
+DJANGO_SETTINGS_MODULE=config.settings.production
+DJANGO_SECRET_KEY=hZmW9mep7WVbxz6r0zqylURWT4Llau1TBzIdm1JgftCYyT97DW8mNQI6k1Ay01UQ
+DJANGO_ADMIN_URL=edgxpYNFNlHrAeNGq6i7bVTjk23NCgsv/
+DJANGO_ALLOWED_HOSTS=.mentesegura.com.br
+
+# Security
+# ------------------------------------------------------------------------------
+# TIP: better off using DNS, however, redirect is OK too
+DJANGO_SECURE_SSL_REDIRECT=False
+
+# Email
+# ------------------------------------------------------------------------------
+DJANGO_SERVER_EMAIL=
+
+
+# AWS
+# ------------------------------------------------------------------------------
+DJANGO_AWS_ACCESS_KEY_ID=
+DJANGO_AWS_SECRET_ACCESS_KEY=
+DJANGO_AWS_STORAGE_BUCKET_NAME=
+
+# django-allauth
+# ------------------------------------------------------------------------------
+DJANGO_ACCOUNT_ALLOW_REGISTRATION=True
+
+# Gunicorn
+# ------------------------------------------------------------------------------
+WEB_CONCURRENCY=4
+
+# Sentry
+# ------------------------------------------------------------------------------
+SENTRY_DSN=
+
+
+# Redis
+# ------------------------------------------------------------------------------
+REDIS_URL=redis://redis:6379/0
+
+# Celery
+# ------------------------------------------------------------------------------
+
+# Flower
+CELERY_FLOWER_USER=dctWDNegnDqPeSPzNpGqCQGKWYwBZjHR
+CELERY_FLOWER_PASSWORD=1EJ1Kkcu5twhxSqvlWicmixsAQAdPaQAZEGQdcDpDBhzzUnT1MJdczKZwNU3UPsb
+
